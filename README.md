@@ -1,3 +1,3 @@
 # BEFORE RUNNING
 
-Extract the "parkinglots" directory from "parkinglots.zip" in the root project folder
+Extract the "parkinglots" directory from "parkinglots.zip" into the root project folder
